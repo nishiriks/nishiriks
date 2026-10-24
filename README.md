@@ -83,7 +83,6 @@ I enjoy transforming ideas into responsive websites and user-friendly applicatio
   <img width="75%" src="https://streak-stats.demolab.com?user=nishiriks&theme=dark&hide_border=true&background=171717&ring=F5B6CC&fire=F5B6CC&currStreakLabel=F5B6CC" alt="GitHub contribution streak"/>
 
 </div>
----
 
 ## ୨୧ Certifications & Achievements
 
