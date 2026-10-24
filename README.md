@@ -20,7 +20,7 @@
 
   <p><i>Building thoughtful digital experiences, one line of code at a time.</i></p>
 
-  <br/>
+
 
 ---
 <div align="center">
