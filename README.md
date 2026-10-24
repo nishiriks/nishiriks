@@ -10,7 +10,7 @@
 
   <div align="center">
   <img src="assets/pink-divider.gif" width="100%" alt="Pink animated divider"/>
-
+</div>
   <br/>
   
   <h1>🎀 Hi, I'm Krizia Jane Lleva 🎀</h1>
