@@ -109,7 +109,9 @@ I'm open to connecting with fellow developers, collaborating on projects, and ex
 
   <br/><br/>
 
-  **Thank you for visiting my profile!**
-
+  **Thank you for visiting my profile!
+  >🎀
+  **
+>🎀
 
 </div>
