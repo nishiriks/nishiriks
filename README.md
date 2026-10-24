@@ -84,27 +84,18 @@ I enjoy transforming ideas into responsive websites and user-friendly applicatio
 
 </div>
 
-## ୨୧ Certifications & Achievements
-
-- 🎓 **Magna Cum Laude** — BS Information Technology
-- 📜 **TESDA National Certificate II — Computer Systems Servicing (CSS)** *(include only if this accurately describes your credential)*
-
-Add other relevant certifications, workshops, or technical achievements as applicable.
-
----
-
 ## ୨୧ Let's Connect
 
 I'm open to connecting with fellow developers, collaborating on projects, and exploring opportunities to grow professionally.
 
 <p>
-  <a href="YOUR_PORTFOLIO_URL">
+  <a href="https://keyjeyal-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-171717?style=for-the-badge&logo=googlechrome&logoColor=F5B6CC" alt="Portfolio"/>
   </a>
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/krizia-lleva">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-F5B6CC?style=for-the-badge&logo=linkedin&logoColor=171717" alt="LinkedIn"/>
   </a>
-  <a href="mailto:YOUR_EMAIL_ADDRESS">
+  <a href="mailto:krizia20lleva@gmail.com">
     <img src="https://img.shields.io/badge/Email-Say%20Hello-171717?style=for-the-badge&logo=gmail&logoColor=F5B6CC" alt="Email"/>
   </a>
 </p>
@@ -119,6 +110,5 @@ I'm open to connecting with fellow developers, collaborating on projects, and ex
 
   **Thank you for visiting my profile!**
 
-  <sub>Made with ♡ and a little pink.</sub>
 
 </div>
