@@ -10,7 +10,7 @@
 
   <br/>
 
-  <h1>୨୧ Hi, I'm Krizia Jane Lleva ୨୧</h1>
+  <h1>🎀 Hi, I'm Krizia Jane Lleva 🎀</h1>
 
   <h3>♡ Aspiring Frontend Developer ♡</h3>
 
@@ -21,7 +21,7 @@
 
 ---
 
-## ୨୧ About Me
+## 🎀 About Me
 
 Hello! I'm a BS Information Technology graduate from Centro Escolar University – Malolos, with a passion for frontend development and web design.
 
@@ -38,7 +38,7 @@ I enjoy transforming ideas into responsive websites and user-friendly applicatio
 
 ---
 
-୨୧ My Tech Stack
+🎀 My Tech Stack
 
 <p align="center">
   <i>The technologies I use in my projects and coursework.</i>
@@ -62,7 +62,7 @@ I enjoy transforming ideas into responsive websites and user-friendly applicatio
 
 ---
 
-## ୨୧ GitHub Statistics
+## 🎀 GitHub Statistics
 
 <div align="center">
 
