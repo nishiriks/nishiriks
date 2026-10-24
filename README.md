@@ -96,8 +96,8 @@ I'm open to connecting with fellow developers, collaborating on projects, and ex
     <img src="https://img.shields.io/badge/LinkedIn-Connect-F5B6CC?style=for-the-badge&logo=linkedin&logoColor=171717" alt="LinkedIn"/>
   </a>
   <a href="mailto:krizia20lleva@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Say%20Hello-171717?style=for-the-badge&logo=gmail&logoColor=F5B6CC" alt="Email"/>
-  </a>
+  <img src="https://img.shields.io/badge/Email-Say%20Hello-171717?style=for-the-badge&logo=gmail&logoColor=F5B6CC" alt="Email"/>
+</a>
 </p>
 
 <div align="center">
