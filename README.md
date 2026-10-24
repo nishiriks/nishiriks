@@ -83,17 +83,6 @@ I enjoy transforming ideas into responsive websites and user-friendly applicatio
   <img width="75%" src="https://streak-stats.demolab.com?user=nishiriks&theme=dark&hide_border=true&background=171717&ring=F5B6CC&fire=F5B6CC&currStreakLabel=F5B6CC" alt="GitHub contribution streak"/>
 
   <br/>
-
-<div align="center">
-  <h3>🎀 My Coding Journey 🎀</h3>
-  <p><i>A little progress every day adds up. ♡</i></p>
-
-<br/>
-
-<div align="center">
-  <img src="https://vercel.app" alt="GitHub Stats" width="48%" />
-  <img src="https://vercel.app" alt="Top Languages" width="48%" />
-</div>
 </div>
 
 ## ୨୧ Let's Connect
