@@ -64,27 +64,25 @@ I enjoy transforming ideas into responsive websites and user-friendly applicatio
 
 ---
 <div align="center">
-    ## 🌺 GitHub Statistics 🌺
-</div>
 
-<div align="center">
+  <h2>🌺 GitHub Statistics 🌺</h2>
+
   <img src="assets/pink-divider.gif" width="100%" alt="Pink animated divider"/>
-</div>
 
-<div align="center">
+<br/><br/>
 
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nishiriks&show_icons=true&hide_border=true&bg_color=171717&title_color=F5B6CC&icon_color=F5B6CC&text_color=F5F5F5&rank_icon=github" alt="GitHub statistics"/>
+  <a href="https://github.com/nishiriks">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=nishiriks&show_icons=true&hide_border=true&bg_color=171717&title_color=F5B6CC&icon_color=F5B6CC&text_color=F5F5F5&rank_icon=github" alt="GitHub statistics"/>
+  </a>
+  <a href="https://github.com/nishiriks">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishiriks&layout=compact&hide_border=true&bg_color=171717&title_color=F5B6CC&text_color=F5F5F5" alt="Most used languages"/>
+  </a>
 
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishiriks&layout=compact&hide_border=true&bg_color=171717&title_color=F5B6CC&text_color=F5F5F5" alt="Most used languages"/>
-
-</div>
-
-<div align="center">
+<br/><br/>
 
   <img width="75%" src="https://streak-stats.demolab.com?user=nishiriks&theme=dark&hide_border=true&background=171717&ring=F5B6CC&fire=F5B6CC&currStreakLabel=F5B6CC" alt="GitHub contribution streak"/>
 
 </div>
-
 ---
 
 ## ୨୧ Certifications & Achievements
