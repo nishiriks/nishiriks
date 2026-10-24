@@ -64,8 +64,9 @@ I enjoy transforming ideas into responsive websites and user-friendly applicatio
 
 ---
 <div align="center">
-## 🌺 GitHub Statistics 🌺
+    ## 🌺 GitHub Statistics 🌺
 </div>
+
 <div align="center">
   <img src="assets/pink-divider.gif" width="100%" alt="Pink animated divider"/>
 </div>
