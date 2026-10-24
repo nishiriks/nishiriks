@@ -11,6 +11,7 @@
   <div align="center">
   <img src="assets/pink-divider.gif" width="100%" alt="Pink animated divider"/>
 </div>
+</div>
 
 
   <br/>
@@ -25,12 +26,15 @@
   <br/>
 
 ---
+<div align="center">
 
 ## 🎀 About Me
 
 Hello! I'm a BS Information Technology graduate from Centro Escolar University – Malolos, with a passion for frontend development and web design.
 
 I enjoy transforming ideas into responsive websites and user-friendly applications. I value thoughtful design, clean code, and continuous improvement as I grow in the field of web development.
+
+</div>
 
 - 🎓 **Education:** BS Information Technology (2022–2026)
 - 🎀 **Academic Achievement:** Magna Cum Laude
