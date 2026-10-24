@@ -88,15 +88,11 @@ I enjoy transforming ideas into responsive websites and user-friendly applicatio
   <h3>🎀 My Coding Journey 🎀</h3>
   <p><i>A little progress every day adds up. ♡</i></p>
 
-  <br/>
-
-  <a href="https://github.com/nishiriks">
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=nishiriks&theme=react-dark&hide_border=true&area=true&color=FFD6E7&line=F5B6CC&point=FFFFFF"
-      width="100%"
-      alt="GitHub contribution activity graph"
-    />
-  </a>
+  <img
+    width="100%"
+    src="https://github-stats-extended.vercel.app/api?username=nishiriks&show_icons=true&hide_border=true&bg_color=171717&title_color=F5B6CC&icon_color=F5B6CC&text_color=F5F5F5"
+    alt="GitHub coding statistics"
+  />
 </div>
 
 ## ୨୧ Let's Connect
