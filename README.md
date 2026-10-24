@@ -19,10 +19,6 @@
 
   <br/>
 
-  <img src="https://komarev.com/ghpvc/?username=nishiriks&label=PROFILE%20VISITORS&color=F5B6CC&labelColor=171717&style=flat-square" alt="Profile visitors"/>
-
-</div>
-
 ---
 
 ## ୨୧ About Me
