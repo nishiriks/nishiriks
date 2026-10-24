@@ -77,14 +77,23 @@ I enjoy transforming ideas into responsive websites and user-friendly applicatio
 
 </div>
 
-### Frameworks & Tools
+୨୧ Frameworks & Tools
 
-<p>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=F5B6CC" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"/>
-</p>
+<div align="center">
+
+  <hr width="100%" color="#F5B6CC"/>
+
+  <h3>🌸 Frameworks & Tools 🌸</h3>
+
+  <p>
+    <img src="https://skillicons.dev/icons?i=bootstrap,react,tailwind,nodejs,laravel,django&theme=dark" alt="Frameworks and libraries"/>
+    <br/>
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,idea,pycharm,eclipse,arduino&theme=dark" alt="Development tools"/>
+  </p>
+
+  <hr width="100%" color="#F5B6CC"/>
+
+</div>
 
 ---
 
