@@ -15,7 +15,6 @@
   <br/>
   
   <h1>🎀 Hi, I'm Krizia Jane Lleva 🎀</h1>
-  <br/>
 
   <h3>♡ Aspiring Frontend Developer ♡</h3>
 
