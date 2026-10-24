@@ -59,7 +59,9 @@ I enjoy transforming ideas into responsive websites and user-friendly applicatio
     <img src="https://skillicons.dev/icons?i=mysql,git,github,figma,idea,pycharm,vscode,eclipse,arduino&theme=dark" alt="Databases and development tools"/>
   </p>
 
-  <div class="tenor-gif-embed" data-postid="26393839" data-share-method="host" data-aspect-ratio="106.665" data-width="100%"><a href="https://tenor.com/view/pink-divider-gif-26393839">Pink Divider GIF</a>from <a href="https://tenor.com/search/pink+divider-gifs">Pink Divider GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+  <div align="center">
+  <img src="assets/pink-divider.gif" width="100%" alt="Pink animated divider"/>
+</div>
 
 </div>
 
