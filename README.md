@@ -15,6 +15,7 @@
   <br/>
   
   <h1>🎀 Hi, I'm Krizia Jane Lleva 🎀</h1>
+  <br/>
 
   <h3>♡ Aspiring Frontend Developer ♡</h3>
 
@@ -26,6 +27,7 @@
 <div align="center">
 
 ## 🎀 About Me
+ <br/>
 
 Hello! I'm a BS Information Technology graduate from Centro Escolar University – Malolos, with a passion for frontend development and web design.
 
