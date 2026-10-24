@@ -23,19 +23,23 @@
     <i>Building thoughtful digital experiences, one line of code at a time.</i>
   </p>
 
-  <p>
-    <a href="YOUR_PORTFOLIO_URL">
-      <img src="https://img.shields.io/badge/Portfolio-F5B6CC-171717?style=for-the-badge&logo=googlechrome&logoColor=171717" alt="Portfolio"/>
-    </a>
-    <a href="YOUR_LINKEDIN_URL">
-      <img src="https://img.shields.io/badge/LinkedIn-171717-F5B6CC?style=for-the-badge&logo=linkedin&logoColor=F5B6CC" alt="LinkedIn"/>
-    </a>
-    <a href="mailto:YOUR_EMAIL_ADDRESS">
-      <img src="https://img.shields.io/badge/Email-F5B6CC-171717?style=for-the-badge&logo=gmail&logoColor=171717" alt="Email"/>
-    </a>
-  </p>
+<div align="center">
 
-  <img src="https://komarev.com/ghpvc/?username=nishiriks&label=PROFILE%20VISITORS&color=E9A0B8&style=flat-square" alt="Profile visitors"/>
+  <a href="YOUR_PORTFOLIO_URL">
+    <img src="https://img.shields.io/badge/PORTFOLIO-Visit-F5B6CC?style=for-the-badge&labelColor=171717" alt="Portfolio" />
+  </a>
+  &nbsp;
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LINKEDIN-Connect-F5B6CC?style=for-the-badge&labelColor=171717" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:YOUR_EMAIL_ADDRESS">
+    <img src="https://img.shields.io/badge/EMAIL-Contact-F5B6CC?style=for-the-badge&labelColor=171717" alt="Email" />
+  </a>
+
+<br/><br/>
+
+  <img src="https://komarev.com/ghpvc/?username=nishiriks&label=PROFILE+VISITORS&color=F5B6CC&labelColor=171717&style=flat-squar
 
 </div>
 
