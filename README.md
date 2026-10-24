@@ -8,7 +8,9 @@
 
   <img src="assets/github-banner.png" width="100%" alt="Krizia Jane Lleva | Aspiring Frontend Developer" />
 
-  <br/>
+  <div align="center">
+  <img src="assets/pink-divider.gif" width="100%" alt="Animated pink gradient divider"/>
+</div>
 
   <h1>🎀 Hi, I'm Krizia Jane Lleva 🎀</h1>
 
