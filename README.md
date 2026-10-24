@@ -7,10 +7,9 @@
 <div align="center">
 
   <img src="assets/github-banner.png" width="100%" alt="Krizia Jane Lleva | Aspiring Frontend Developer" />
-</div>
+
   <div align="center">
   <img src="assets/pink-divider.gif" width="100%" alt="Pink animated divider"/>
-</div>
 
   <br/>
   
@@ -20,7 +19,7 @@
 
   <p><i>Building thoughtful digital experiences, one line of code at a time.</i></p>
 
-
+</div>
 
 ---
 <div align="center">
