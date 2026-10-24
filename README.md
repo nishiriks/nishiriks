@@ -13,9 +13,9 @@
 </div>
   <br/>
   
-  <h1>🎀 Hi, I'm Krizia Jane Lleva 🎀</h1>
+  <h1>🎀 Hi, I'm Krizia Lleva 🎀</h1>
 
-  <h3>♡ Aspiring Frontend Developer ♡</h3>
+  <h3>♡ Aspiring Frontend/Software Developer ♡</h3>
 
   <p><i>Building thoughtful digital experiences, one line of code at a time.</i></p>
 
