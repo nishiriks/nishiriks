@@ -1,12 +1,7 @@
 <!--
-  GITHUB PROFILE README
+  GitHub Profile README
   Theme: Charcoal Black • White • Soft Pink
-  GitHub username: nishiriks
-
-  CUSTOMIZATION:
-  1. Upload your own banner to assets/github-banner.png
-  2. Replace every YOUR_... placeholder with your real links
-  3. Verify skills, projects, and certifications before publishing
+  Username: nishiriks
 -->
 
 <div align="center">
@@ -19,29 +14,26 @@
 
   <h3>♡ Aspiring Frontend Developer ♡</h3>
 
+  <p><i>Building thoughtful digital experiences, one line of code at a time.</i></p>
+
   <p>
-    <i>Building thoughtful digital experiences, one line of code at a time.</i>
+    <a href="YOUR_PORTFOLIO_URL">
+      <img src="https://img.shields.io/badge/PORTFOLIO-Visit-F5B6CC?style=for-the-badge&labelColor=171717" alt="Portfolio"/>
+    </a>
+    &nbsp;
+    <a href="YOUR_LINKEDIN_URL">
+      <img src="https://img.shields.io/badge/LINKEDIN-Connect-F5B6CC?style=for-the-badge&labelColor=171717" alt="LinkedIn"/>
+    </a>
+    &nbsp;
+    <a href="mailto:YOUR_EMAIL_ADDRESS">
+      <img src="https://img.shields.io/badge/EMAIL-Contact-F5B6CC?style=for-the-badge&labelColor=171717" alt="Email"/>
+    </a>
   </p>
 
-<div align="center">
+  <br/>
 
-  <a href="YOUR_PORTFOLIO_URL">
-    <img src="https://img.shields.io/badge/PORTFOLIO-Visit-F5B6CC?style=for-the-badge&labelColor=171717" alt="Portfolio" />
-  </a>
-  &nbsp;
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LINKEDIN-Connect-F5B6CC?style=for-the-badge&labelColor=171717" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="mailto:YOUR_EMAIL_ADDRESS">
-    <img src="https://img.shields.io/badge/EMAIL-Contact-F5B6CC?style=for-the-badge&labelColor=171717" alt="Email" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=nishiriks&label=PROFILE%20VISITORS&color=F5B6CC&labelColor=171717&style=flat-square" alt="Profile visitors"/>
 
-<br/><br/>
-
-  <img src="https://komarev.com/ghpvc/?username=nishiriks&label=PROFILE+VISITORS&color=F5B6CC&labelColor=171717&style=flat-squar
-
-</div>
 </div>
 
 ---
