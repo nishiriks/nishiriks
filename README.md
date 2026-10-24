@@ -85,6 +85,8 @@ I enjoy transforming ideas into responsive websites and user-friendly applicatio
   <br/>
 </div>
 
+<br/><br/>
+
 ## ୨୧ Let's Connect
 
 I'm open to connecting with fellow developers, collaborating on projects, and exploring opportunities to grow professionally.
