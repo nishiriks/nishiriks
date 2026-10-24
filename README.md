@@ -90,11 +90,10 @@ I enjoy transforming ideas into responsive websites and user-friendly applicatio
 
 <br/>
 
-<img
-  width="95%"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=nishiriks&bg_color=171717&color=F5B6CC&line=F5B6CC&point=FFFFFF&area=true&hide_border=true"
-  alt="GitHub contribution activity graph"
-/>
+<div align="center">
+  <img src="https://vercel.app" alt="GitHub Stats" width="48%" />
+  <img src="https://vercel.app" alt="Top Languages" width="48%" />
+</div>
 </div>
 
 ## ୨୧ Let's Connect
