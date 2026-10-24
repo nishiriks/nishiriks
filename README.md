@@ -7,7 +7,7 @@
 <div align="center">
 
   <img src="assets/github-banner.png" width="100%" alt="Krizia Jane Lleva | Aspiring Frontend Developer" />
-
+</div>
   <div align="center">
   <img src="assets/pink-divider.gif" width="100%" alt="Pink animated divider"/>
 </div>
