@@ -25,7 +25,7 @@
 ---
 <div align="center">
 
-## 🎀 About Me
+## 🌺 About Me 🌺
  
 
 Hello! I'm a BS Information Technology graduate from Centro Escolar University – Malolos, with a passion for frontend development and web design.
@@ -65,7 +65,7 @@ I enjoy transforming ideas into responsive websites and user-friendly applicatio
 
 ---
 
-## 🎀 GitHub Statistics
+## 🌺 GitHub Statistics 🌺
 
 <div align="center">
   <img src="assets/pink-divider.gif" width="100%" alt="Pink animated divider"/>
