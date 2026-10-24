@@ -1,47 +1,28 @@
 <!--
-  GITHUB PROFILE README
+  GitHub Profile README
   Theme: Charcoal Black • White • Soft Pink
-  GitHub username: nishiriks
-
-  CUSTOMIZATION:
-  1. Upload your own banner to assets/github-banner.png
-  2. Replace every YOUR_... placeholder with your real links
-  3. Verify skills, projects, and certifications before publishing
+  Username: nishiriks
 -->
 
 <div align="center">
 
   <img src="assets/github-banner.png" width="100%" alt="Krizia Jane Lleva | Aspiring Frontend Developer" />
 
-  <br/>
 
-  <h1>୨୧ Hi, I'm Krizia Jane Lleva ୨୧</h1>
+  <br/>
+  
+  <h1>🎀 Hi, I'm Krizia Jane Lleva 🎀</h1>
 
   <h3>♡ Aspiring Frontend Developer ♡</h3>
 
-  <p>
-    <i>Building thoughtful digital experiences, one line of code at a time.</i>
-  </p>
+  <p><i>Building thoughtful digital experiences, one line of code at a time.</i></p>
 
-  <p>
-    <a href="YOUR_PORTFOLIO_URL">
-      <img src="https://img.shields.io/badge/Portfolio-F5B6CC-171717?style=for-the-badge&logo=googlechrome&logoColor=171717" alt="Portfolio"/>
-    </a>
-    <a href="YOUR_LINKEDIN_URL">
-      <img src="https://img.shields.io/badge/LinkedIn-171717-F5B6CC?style=for-the-badge&logo=linkedin&logoColor=F5B6CC" alt="LinkedIn"/>
-    </a>
-    <a href="mailto:YOUR_EMAIL_ADDRESS">
-      <img src="https://img.shields.io/badge/Email-F5B6CC-171717?style=for-the-badge&logo=gmail&logoColor=171717" alt="Email"/>
-    </a>
-  </p>
 
-  <img src="https://komarev.com/ghpvc/?username=nishiriks&label=PROFILE%20VISITORS&color=E9A0B8&style=flat-square" alt="Profile visitors"/>
-
-</div>
+  <br/>
 
 ---
 
-## ୨୧ About Me
+## 🎀 About Me
 
 Hello! I'm a BS Information Technology graduate from Centro Escolar University – Malolos, with a passion for frontend development and web design.
 
@@ -58,31 +39,29 @@ I enjoy transforming ideas into responsive websites and user-friendly applicatio
 
 ---
 
-## ୨୧ My Tech Stack
+<div align="center">
 
-The technologies below should reflect tools I have actually used in projects or coursework.
-
-### Languages & Web Technologies
-
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=171717" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <h3>🌸 Tech Stacks and Tools 🌸</h3>
+  
+  <hr width="100%" color="#F5B6CC"/>
+  
+  <p align="center">
+  <i>The technologies I use in my projects and coursework.</i>
 </p>
 
-### Frameworks & Tools
+  <p>
+    <img src="https://skillicons.dev/icons?i=java,python,js,html,css,bootstrap,react,tailwind&theme=dark" alt="Programming languages and frameworks"/>
+    <br/>
+    <img src="https://skillicons.dev/icons?i=mysql,git,github,figma,idea,pycharm,vscode,eclipse,arduino&theme=dark" alt="Databases and development tools"/>
+  </p>
 
-<p>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=F5B6CC" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"/>
-</p>
+  <div class="tenor-gif-embed" data-postid="26393839" data-share-method="host" data-aspect-ratio="106.665" data-width="100%"><a href="https://tenor.com/view/pink-divider-gif-26393839">Pink Divider GIF</a>from <a href="https://tenor.com/search/pink+divider-gifs">Pink Divider GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
+</div>
 
 ---
 
-## ୨୧ GitHub Statistics
+## 🎀 GitHub Statistics
 
 <div align="center">
 
