@@ -16,19 +16,6 @@
 
   <p><i>Building thoughtful digital experiences, one line of code at a time.</i></p>
 
-  <p>
-    <a href="YOUR_PORTFOLIO_URL">
-      <img src="https://img.shields.io/badge/PORTFOLIO-Visit-F5B6CC?style=for-the-badge&labelColor=171717" alt="Portfolio"/>
-    </a>
-    &nbsp;
-    <a href="YOUR_LINKEDIN_URL">
-      <img src="https://img.shields.io/badge/LINKEDIN-Connect-F5B6CC?style=for-the-badge&labelColor=171717" alt="LinkedIn"/>
-    </a>
-    &nbsp;
-    <a href="mailto:YOUR_EMAIL_ADDRESS">
-      <img src="https://img.shields.io/badge/EMAIL-Contact-F5B6CC?style=for-the-badge&labelColor=171717" alt="Email"/>
-    </a>
-  </p>
 
   <br/>
 
