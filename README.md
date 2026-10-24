@@ -59,15 +59,15 @@ I enjoy transforming ideas into responsive websites and user-friendly applicatio
     <img src="https://skillicons.dev/icons?i=mysql,git,github,figma,idea,pycharm,vscode,eclipse,arduino&theme=dark" alt="Databases and development tools"/>
   </p>
 
-  <div align="center">
-  <img src="assets/pink-divider.gif" width="100%" alt="Pink animated divider"/>
-</div>
-
 </div>
 
 ---
 
 ## 🎀 GitHub Statistics
+
+<div align="center">
+  <img src="assets/pink-divider.gif" width="100%" alt="Pink animated divider"/>
+</div>
 
 <div align="center">
 
