@@ -55,18 +55,27 @@ I enjoy transforming ideas into responsive websites and user-friendly applicatio
 
 ---
 
-## ୨୧ My Tech Stack
+୨୧ My Tech Stack
 
-The technologies below should reflect tools I have actually used in projects or coursework.
-
-### Languages & Web Technologies
-
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=171717" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<p align="center">
+  <i>The technologies I use in my projects and coursework.</i>
 </p>
+
+<div align="center">
+
+  <hr width="100%" color="#F5B6CC"/>
+
+  <h3>🌸 My Knowledge 🌸</h3>
+
+  <p>
+    <img src="https://skillicons.dev/icons?i=java,python,js,c,html,css,bootstrap,django,nodejs,react,unity,tailwind,laravel,php&theme=dark" alt="Programming languages and frameworks"/>
+    <br/>
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,figma,idea,pycharm,vscode,eclipse,arduino&theme=dark" alt="Databases and development tools"/>
+  </p>
+
+  <hr width="100%" color="#F5B6CC"/>
+
+</div>
 
 ### Frameworks & Tools
 
