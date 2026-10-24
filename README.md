@@ -65,30 +65,12 @@ I enjoy transforming ideas into responsive websites and user-friendly applicatio
 
   <hr width="100%" color="#F5B6CC"/>
 
-  <h3>🌸 My Knowledge 🌸</h3>
+  <h3>🌸 Tech Stacks and Tools 🌸</h3>
 
   <p>
     <img src="https://skillicons.dev/icons?i=java,python,js,html,css,bootstrap,react,tailwind&theme=dark" alt="Programming languages and frameworks"/>
     <br/>
     <img src="https://skillicons.dev/icons?i=mysql,git,github,figma,idea,pycharm,vscode,eclipse,arduino&theme=dark" alt="Databases and development tools"/>
-  </p>
-
-  <hr width="100%" color="#F5B6CC"/>
-
-</div>
-
-୨୧ Frameworks & Tools
-
-<div align="center">
-
-  <hr width="100%" color="#F5B6CC"/>
-
-  <h3>🌸 Frameworks & Tools 🌸</h3>
-
-  <p>
-    <img src="https://skillicons.dev/icons?i=bootstrap,react,tailwind,nodejs,laravel,django&theme=dark" alt="Frameworks and libraries"/>
-    <br/>
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,idea,pycharm,eclipse,arduino&theme=dark" alt="Development tools"/>
   </p>
 
   <hr width="100%" color="#F5B6CC"/>
