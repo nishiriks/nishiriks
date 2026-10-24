@@ -42,6 +42,7 @@
   <img src="https://komarev.com/ghpvc/?username=nishiriks&label=PROFILE+VISITORS&color=F5B6CC&labelColor=171717&style=flat-squar
 
 </div>
+</div>
 
 ---
 
