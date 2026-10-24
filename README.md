@@ -54,7 +54,7 @@ I enjoy transforming ideas into responsive websites and user-friendly applicatio
     <img src="https://skillicons.dev/icons?i=mysql,git,github,figma,idea,pycharm,vscode,eclipse,arduino&theme=dark" alt="Databases and development tools"/>
   </p>
 
-  <hr width="100%" color="#F5B6CC"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3&section=header" width="100%" alt="Pastel gradient divider"/>
 
 </div>
 
