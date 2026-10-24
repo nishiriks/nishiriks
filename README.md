@@ -25,8 +25,8 @@
 ---
 <div align="center">
 
-## 🎀 About Me
- <br/>
+🎀 About Me
+ 
 
 Hello! I'm a BS Information Technology graduate from Centro Escolar University – Malolos, with a passion for frontend development and web design.
 
