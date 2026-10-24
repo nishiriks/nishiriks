@@ -87,18 +87,16 @@ I enjoy transforming ideas into responsive websites and user-friendly applicatio
 <div align="center">
   <h3>🎀 My Coding Journey 🎀</h3>
   <p><i>A little progress every day adds up. ♡</i></p>
-</div>
 
   <br/>
 
-<img
-  width="100%"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=nishiriks&bg_color=171717&color=FFD6E7&line=F5B6CC&point=FFFFFF&area=true&area_color=F5B6CC&title_color=F5B6CC&hide_border=true&custom_title=My%20Coding%20Journey"
-  alt="Krizia's GitHub contribution activity graph"
-/>
-
-
-
+  <a href="https://github.com/nishiriks">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=nishiriks&theme=react-dark&hide_border=true&area=true&color=FFD6E7&line=F5B6CC&point=FFFFFF"
+      width="100%"
+      alt="GitHub contribution activity graph"
+    />
+  </a>
 </div>
 
 ## ୨୧ Let's Connect
