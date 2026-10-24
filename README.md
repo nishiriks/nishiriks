@@ -40,7 +40,7 @@ I enjoy transforming ideas into responsive websites and user-friendly applicatio
 
 <div align="center">
 
-  <hr width="100%" color="#F5B6CC"/>
+
 
   <h3>🌸 Tech Stacks and Tools 🌸</h3>
 
