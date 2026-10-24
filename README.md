@@ -38,17 +38,15 @@ I enjoy transforming ideas into responsive websites and user-friendly applicatio
 
 ---
 
-🎀 My Tech Stack
-
-<p align="center">
-  <i>The technologies I use in my projects and coursework.</i>
-</p>
-
 <div align="center">
 
   <hr width="100%" color="#F5B6CC"/>
 
   <h3>🌸 Tech Stacks and Tools 🌸</h3>
+
+  <p align="center">
+  <i>The technologies I use in my projects and coursework.</i>
+</p>
 
   <p>
     <img src="https://skillicons.dev/icons?i=java,python,js,html,css,bootstrap,react,tailwind&theme=dark" alt="Programming languages and frameworks"/>
